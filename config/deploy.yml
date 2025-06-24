@@ -1,8 +1,8 @@
 # Name of your application. Used to uniquely configure containers.
-service: hello_world
+service: hello
 
 # Name of the container image.
-image: theotteryears22/hello_world
+image: theotteryears22/hello
 
 # Deploy to these servers.
 servers:
